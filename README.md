@@ -2,21 +2,8 @@
 
 ----
 
-# Every Programmer Should Know :thinking:
-A collection of (mostly) technical things every software developer should know.
+# Every Game Developer Should Know :thinking:
 
-:point_up: *These are resources I can recommend to every programmer regardless of their skill level or tech stack*
-
-Highly opinionated :bomb:. Not backed by science.
-Comes in no particular order :recycle:
-
-U like it? :star: it and [share](https://twitter.com/mr_mig_by/status/900735231552098306) with a friendly developer!
-U don't like it? [Watch the doggo](https://twitter.com/RespectfulMemes/status/900147758845308930) :dog:
-
-*P.S. You [don't need to know](https://xkcd.com/1050/) all of that by heart to be a programmer.
-But knowing the stuff will help you become better! :muscle:*
-
-*P.P.S. [Contributions](CONTRIBUTING.md) are welcome!*
 
 ----
 
